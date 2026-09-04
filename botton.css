@@ -1,0 +1,26 @@
+        .botao-link {
+            display: inline-block;
+            padding: 10px 16px;
+            margin: 5px;
+            border: 1px solid #000000;
+            border-radius: 6px;
+            background-color: #d9e8b0;
+            color: #000000;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .botao-link:hover {
+            background-color: #b8cf82;
+        }
+
+        .icone-social {
+            margin: 0 8px;
+            color: #000000;
+            font-size: 28px;
+            text-decoration: none;
+        }
+
+        .icone-social:hover {
+            color: #d9e8b0;
+        }
